@@ -110,16 +110,16 @@ int main() {
 
 ### To Execute a C++ Program:
 
-- use an editor to create a source program in C++
-- **preprocessor directives** begin with #, and are processed by the preprocessor
-- use the **compiler** to:
+1. use an editor to create a source program in C++
+2. **preprocessor directives** begin with #, and are processed by the preprocessor
+3. use the **compiler** to:
     - check if program obeys language rules
     - translate into machine language(**object program**)
-- **Linker** - combines object program /w other programs provided by SDK to create executable code
+4. **Linker** - combines object program /w other programs provided by SDK to create executable code
     - **Library** - contains prewritten code you can use
-- **Loader** - loads executable program into main memory
-- Execute the program
-- Some IDEs do everything /w Build or Rebuild command
+5. **Loader** - loads executable program into main memory
+6. Execute the program
+	- Some IDEs do everything /w Build or Rebuild command
 
 ### Problem Analysis–Coding–Execution Cycle:
 1. **Analyze** the problem.
