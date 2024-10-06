@@ -11,47 +11,91 @@ tags:
 - **C++** is a widely-used programming language suitable for various tasks.
 
 ### History of Computers:
-- **Early devices**: ==Abacus, Pascaline, Leibniz Device, Jacquard's Loom, Babbage Machines.==
-- **Early computers**: ==Mark I, ENIAC, UNIVAC, Von-Neumann Architecture.==
-  - ==**Von-Neumann Architecture**==: 
-     describes a system where a computer's memory stores both data and program instructions, allowing the CPU (Central Processing Unit) to fetch and execute instructions sequentially. 
-	- ==CPU==: Executes instructions.
-	- ==Memory==: Stores data.
-	- ==Input/Output== Devices: Communication interface.
-	- ==Control== Unit: Directs CPU operations.
+- Early Calculation Devices:
+	1. Abacus
+		- calculation tool that uses sliding counters
+	2. Leibniz device
+		- “Stepped Reckoner”
+		- mechanical calculator by Gottfried Wilhelm Leibniz
+		- stepped drum mechanism
+	3. Jacquard’s Loom
+		- mechanical loom, uses punch cards
+- **Early computers**: 
+	1. **Mark I**
+		- first large-scale automatic digital computers
+		- 50ft long
+	2. ENIAC (Electronic Numerical Integrator and Computer)
+	3. UNIVAC (Universal Automatic Computer)
+	4. ==**Von-Neumann Architecture**==: 
+		- a system where a computer’s memory stores data & program instructions
+		- 4 Key Components:
+			- ==CPU==: Executes instructions.
+			- ==Memory==: Stores data.
+			- ==Input/Output== Devices: Communication interface.
+			- ==Control== Unit: Directs CPU operations.
 
-- **Categories of Computers**: Mainframes, Mid-size, Micro (PCs).
+- **Categories of Computers**: 
+	- Mainframes, 
+	- Mid-size, 
+	- Micro (PCs).
 
 ### Computer System Components:
-- **Hardware**: CPU, Main memory, Secondary storage, Input/output devices.
-- **Software**:
-  - **System programs** (e.g., Operating systems) manage resources.
-  - **Application programs** (e.g., Word processors, Spreadsheets) perform specific tasks.
 
-### CPU and Memory:
-- **CPU**: The brain of the computer; performs calculations.
+**Hardware**: 
+- **CPU**: 
+	- The brain of the computer; performs calculations.
 - **RAM (Main memory)**:
-  - Directly connected to the CPU.
-  - Volatile – data is lost when powered off.
-  - Programs and data must be loaded into RAM for processing.
-
-### Secondary Storage:
-- Permanent storage examples: Hard disks, Flash drives, CDs, Tapes.
-
-### Input/Output Devices:
-- **Input**: Keyboard, Mouse, Storage.
-- **Output**: Monitor, Printer, Storage.
+	- Directly connected to the CPU.
+	- Volatile – data is lost when powered off.
+	- Programs and data must be loaded into RAM for processing.
+- **Secondary Storage:**
+	- stores information permanently
+	- Ex.: Hard disks, flash drives, floppy disks, zip disks, CD-ROMs, tapes
+- **Input Devices:** 
+	- feed data and programs into computers
+	- Keyboard, Mouse, Storage.
+- **Output Devices:** 
+	- display results
+	- Monitor, Printer, Storage.
+**Software**:
+- Programs that do specific tasks
+- **System programs** - Control the computer.
+	- Operating System
+		- monitors the overall activity of the computer
+		- provides services:
+			- Memory Management
+			- Storage Management
+			- I/O Activities
+- **Application programs** (e.g., Word processors, Spreadsheets) perform specific tasks.
 
 ### The Language of a Computer:
-- **Analog** vs. **Digital Signals** (0s and 1s).
-- **Machine language**: Binary code (e.g., 1010).
-- **Bytes**: 8 bits. Examples: ASCII, Unicode.
 
-### Programming Languages Evolution:
-- **Machine language**: Early, low-level language.
-- **Assembly language**: Mnemonics with an assembler to translate into machine code.
-- **High-level languages**: C++, Java, Python, etc. Use a compiler to translate to machine code.
 
+**Analog Signals:** continuous waveforms used to represent sound
+
+**Digital Signals:** sequences of 1s and 0s (0 = Low Voltage, 1= High Voltage)
+
+
+Machine Language: language of a computer; sequences of 0s and 1s
+
+**Assembly language**: Mnemonics with an assembler to translate into machine code.
+
+**High-level languages**: C++, Java, Python, etc. Use a compiler to translate to machine code.
+
+
+**Binary Digit(bit):** the digit 0/1, building blocks of digital communication and data storage
+**Bytes**: 8 bits
+**Binary Code(binary number):** a sequence of 0s and 1s
+
+**ASCII(American Standard Code for Information Interchange):** has 128 characters
+ - 128 characters
+
+**EBCDIC(Extended Binary Coded Decimal Interchange Code)**
+ - used by IBM, 256 characters
+
+**Compiler**
+ - translates program written in high-level language into machine language
+ 
 ### Example in C++:
 ```cpp
 #include <iostream>
@@ -63,6 +107,19 @@ int main() {
 }
 ```
 - Compiled and linked to produce an executable program.
+
+### To Execute a C++ Program:
+
+- use an editor to create a source program in C++
+- **preprocessor directives** begin with #, and are processed by the preprocessor
+- use the **compiler** to:
+    - check if program obeys language rules
+    - translate into machine language(**object program**)
+- **Linker** - combines object program /w other programs provided by SDK to create executable code
+    - **Library** - contains prewritten code you can use
+- **Loader** - loads executable program into main memory
+- Execute the program
+- Some IDEs do everything /w Build or Rebuild command
 
 ### Problem Analysis–Coding–Execution Cycle:
 1. **Analyze** the problem.
