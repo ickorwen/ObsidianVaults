@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "CC202 - Midterms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "CC202 - Midterms.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "CC202 - Midterms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "CC202 - Midterms.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "921c370b92c8baa7",
   "lastOpenFiles": [
-    "2024-10-06.md",
     "test.md",
+    "2024-10-06.md",
     "CC202 - Midterms.md",
     "2024-10-05.md",
     "Welcome.md",
