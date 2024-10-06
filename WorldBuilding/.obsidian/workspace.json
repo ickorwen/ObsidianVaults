@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "d0816d5bc3607f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "af1570677305f808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0c4c891b53665b2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "386f534b9b1d1ab1",
+    "type": "split",
+    "children": [
+      {
+        "id": "981f585d7175ce56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "774cea6fe2b1ffdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a95ac550e3ebbcb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92bd358c47378347",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f86863aa0a93b371",
+    "type": "split",
+    "children": [
+      {
+        "id": "2511f5e90815ee91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a16ab99332f8e2b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ac8fea8a91d68c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92f51ba1d1f03759",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a82f0a2946e88936",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "774cea6fe2b1ffdc",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Encyclopedia/Location/Korinthe/Korinthe.md",
+    "Encyclopedia/Location/Korinthe/Senate of Korinth.md",
+    "Encyclopedia/Location",
+    "Encyclopedia/Location/Korinthe",
+    "Encyclopedia"
+  ]
+}
