@@ -122,16 +122,70 @@ int main() {
 	- Some IDEs do everything /w Build or Rebuild command
 
 ### Problem Analysis–Coding–Execution Cycle:
-1. **Analyze** the problem.
-2. **Implement** the solution in code.
-3. **Maintenance**: Modify if necessary.
+- **Algorithm** - step-by-step problem solving process, solution achieved in finite amount of time
+- programming is a process of problem solving
+
+1. Step 1: Analyze the Problem
+
+	- outline the problem & its requirements
+	- design steps or an algorithm to solve the problem
+
+2. Step 2: Implement the Algorithm
+
+	- implement the algorithm in code
+	- verify that the algorithm works
+
+3. Step 3: Maintenance
+	
+	- use and modify the program if the problem domain changes
+	- thoroughly understand problem & all requirements (user interaction, manipulate data, output?)
+	- if the problem is complex, divide into subproblems
+	    - think of the problem as a “step-by-step” process
+	- check the correctness of algorithm
+	- write equivalent code in high-level language
+	- enter the program using text editor
+	    - different programming language, different syntax & semantics
+	- run code through compiler
+	    - if compiler generates errors, look at code and remove errors, run it again
+	- if no syntax errors, compiler generates equivalent machine code
+	- linker links machine code /w system resources
+	- after it’s compiled & linked, loader can place program into main memory for function
+	- execute
+	- compiler guarantees that the program follows the rules of the language
+	    - does not guarantee that the program will run correctly
+	    - Logical Error - program ran smoothly but /w unexpected results
 
 ### Programming Methodologies:
-- **Structured programming**: Break problems into subproblems (Top-down, Modular).
-- **Object-Oriented Programming (OOP)**: Combines data and functions into objects.
+1. **Structured Design**
 
+- dividing a problem into smaller subproblems
+- **Structured Programming** - implemented a **structured design**
+    - **Structured Design** a.k.a.:
+        - Top-down/Bottom-up design
+        - Stepwise refinement
+        - Modular programming
+
+2. **Object-Oriented Design**
+
+- identify components called **objects**
+- determine how objects interact /w each other
+- specify relevant data and possible operations to be performed on that data
+    - each object consists of data and operations on that data
+    - an object combines data & operations on the data into a single unit
+- **OOP(Object-Oriented Programming) Language:** 
+	- a programming language that implements OOD
+- must learn how to represent data in computer memory, how to manipulate data, and how to implement operations
+- write algorithms and implement them in a programming language
+- use functions to implement algorithms
+- learn how to combine data and operations on the data into a single united(object)
+- OOD is used with structured design
 ### ANSI/ISO Standard C++:
-- Standardized in **1998** for portability across compilers.
+- was designed to implement OOD
+- evolved from C
+- designed by **Bjarne Stroustrup** at **Bell Labs(1980s)**
+    - many different C compilers were available
+- C++ programs were not always portable from one compiler to another
+- mid-1998, **ANSI/ISO C++ Language** standards were approved
 
 ### Summary:
 - **Computer system**: Hardware (CPU, memory), Software (system & application).
@@ -140,13 +194,6 @@ int main() {
 
 ---
 ## **Chapter 2: Basic Elements of C++**
-
-### **Objectives:**
-
-- Understand functions, special symbols, and identifiers.
-- Learn simple data types, arithmetic expressions, and assignment statements.
-- Explore string data types and input/output statements.
-- Use increment/decrement operators, preprocessor directives, and debugging.
 
 ### **C++ Program Structure:**
 

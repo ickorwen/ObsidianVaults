@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "115d7a4bb609cefc",
@@ -157,7 +158,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9de0999d389eca88",
+  "active": "921c370b92c8baa7",
   "lastOpenFiles": [
     "HTML import/CC 202 _ Chapter 1_ Introduction to the Programming Language and its Basic Program Structure.md",
     "CC202 - Midterms.md",
