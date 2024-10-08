@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab1e436a5915b77d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSY midterms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "115d7a4bb609cefc",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SS midterms.md",
+                "file": "PSY midterms.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SS midterms.md",
+                "file": "PSY midterms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SS midterms.md"
+                "file": "PSY midterms.md"
               }
             }
           },
@@ -154,13 +168,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "cloze:Toggle all clozes": false
     }
   },
-  "active": "921c370b92c8baa7",
+  "active": "ab1e436a5915b77d",
   "lastOpenFiles": [
-    "CC201 - Midterms.md",
     "SS midterms.md",
+    "PSY midterms.md",
+    "CC201 - Midterms.md",
     "CC202 - Midterms.md",
     "HTML import/CC 202 _ Chapter 1_ Introduction to the Programming Language and its Basic Program Structure.md",
     "Untitled.canvas",
