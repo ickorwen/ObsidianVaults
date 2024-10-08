@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "b96b58ee63aae361",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c0ae331241d545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87a0540393ee9ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rembr/SS midterms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bdbc4f6212b90b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d1bcadc07290ae2a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "618d093455be373a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5b7772d8f2d73b3c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "16c2d279ad441dc6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f072b79c538c9283",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "60fe133b09aa40d6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "rembr/SS midterms.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "823e828e578c3eab",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "rembr/SS midterms.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f41d795830fa57b7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "rembr/SS midterms.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "cloze:Toggle all clozes": false
+    }
+  },
+  "active": "87a0540393ee9ec8",
+  "lastOpenFiles": [
+    "rembr/CC201 - Midterms.md",
+    "rembr/SS midterms.md"
+  ]
+}
