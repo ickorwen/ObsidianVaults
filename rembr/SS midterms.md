@@ -163,44 +163,39 @@ Impact on Filipino Society:
 Relevance Today: 
 - The film contributes to modern discussions on the historical marginalization of Muslim Filipinos and the need for broader representation in the national narrative.
 
-Chronological Order of Events (Based on the Module)
+---
 
-Discovery of the Philippines (1521, by Magellan/Pigafetta's account)
+### Chronological Order of Events
 
-Arrival of Spanish Missionaries (Late 1500s, Plasencia)
+1. **Discovery of the Philippines**  
+    _1521, by Magellan/Pigafetta's account_
+    
+2. **Arrival of Spanish Missionaries**  
+    _Late 1500s, documented by Plasencia_
+    
+3. **Observance of Indigenous Customs**  
+    _Plasencia's documentation of Tagalog customs_
+    
+4. **Founding of Katipunan**  
+    _1892, initiated by Bonifacio and Jacinto_
+    
+5. **Writing of Kartilla**  
+    _1896, authored by Jacinto_
+    
+6. **Tejeros Convention**  
+    _1897, conflict between Aguinaldo and Bonifacio_
+    
+7. **Declaration of Independence from Spain**  
+    _1898, drafted by Bautista_
+    
+8. **Publication of Editorial Cartoons**  
+    _During the American Era, by McCoy_
+    
+9. **Pres. Aquino’s Speech before the US Congress**  
+    _1986, delivered after the People Power Revolution_
+    
+10. **Execution of Bonifacio**  
+    _Post-Tejeros Convention_
 
-Observance of Indigenous Customs (Plasencia's documentation of Tagalog customs)
+--- 
 
-Founding of Katipunan (1892, Bonifacio and Jacinto)
-
-Writing of Kartilla (1896, Jacinto)
-
-Tejeros Convention (1897, Aguinaldo vs Bonifacio)
-
-Declaration of Independence from Spain (1898, Bautista)
-
-Publication of Editorial Cartoons (McCoy, American Era)
-
-Pres. Aquino’s Speech before the US Congress (1986, after People Power)
-
-Execution of Bonifacio (Post-Tejeros Convention)
-
-Potential Essay Questions:
-
-How did Pigafetta’s account of Magellan’s expedition shape European perceptions of the Philippines, and how does it influence Filipino identity today?
-
-What do Juan de Plasencia’s observations in "Customs of the Tagalogs" reveal about the social and political organization of pre-colonial Filipino societies?
-
-Discuss the influence of the "Kartilla of the Katipunan" on the moral and political foundations of the Philippine Revolution.
-
-How did the "Act of Declaration of Independence" by Ambrosio Bautista shape the course of Philippine history, particularly in the context of subsequent American colonization?
-
-In what ways did political cartoons, as analyzed by Alfred McCoy, function as tools of resistance during the American occupation of the Philippines?
-
-Analyze the significance of Corazon Aquino’s 1986 speech to the US Congress in the context of Philippine-American relations and the restoration of democracy.
-
-Compare and contrast the works of Fernando Amorsolo and Juan Luna in shaping Filipino national identity through art.
-
-How do Aguinaldo’s memoirs reflect the internal struggles within the Filipino revolutionary movement, and what lessons can be drawn from them in today’s political climate?
-
-What does "Raiders of the Sulu Sea" reveal about the broader context of resistance in Philippine history, and how does it challenge traditional narratives of Filipino nationalism?
