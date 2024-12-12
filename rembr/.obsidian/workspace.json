@@ -284,12 +284,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "61514696d2b704ba",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -311,8 +321,15 @@
   },
   "active": "f05469ae09384c51",
   "lastOpenFiles": [
-    "mth finals unit 3.md",
+    "Pasted image 20241213060309.png",
+    "Pasted image 20241213060121.png",
+    "Pasted image 20241213055950.png",
+    "Pasted image 20241213055659.png",
+    "Pasted image 20241213055344.png",
     "mth finals unit 4.md",
+    "Pasted image 20241213055619.png",
+    "Pasted image 20241213055240.png",
+    "mth finals unit 3.md",
     "CC202 Unit 5.md",
     "CC202 Unit 6.md",
     "CC201 Unit 6.md",
@@ -327,7 +344,6 @@
     "images/Pasted image 20241105232251.png",
     "Pasted image 20241105225224 1.png",
     "images/Pasted image 20241105225224.png",
-    "images/Pasted image 20241105223944.png",
     "images",
     "HTML import/CC 202 _ Chapter 1_ Introduction to the Programming Language and its Basic Program Structure.md",
     "HTML import",
