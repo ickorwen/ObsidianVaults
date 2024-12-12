@@ -157,12 +157,11 @@ Statistics is the science of analyzing numerical data to evaluate properties of 
 - Weighted Mean:
 	![[Pasted image 20241213055619.png]]
 
----
+
 ### Median
 - the observation occupying the middle position when observations are arranged in an array
 	![[Pasted image 20241213055950.png]]
 
----
 ### Mode
 - The observation that occurs most often
 	![[Pasted image 20241213060121.png]]
@@ -171,6 +170,7 @@ Statistics is the science of analyzing numerical data to evaluate properties of 
 - **Median**: Useful for skewed distributions as it is not influenced by extreme values.
 - **Mode**: Represents the most common value, applicable for both qualitative and quantitative data.
 - ![[Pasted image 20241213060309.png]]
+--- 
 ## Measures of Variability
 
 ### Definition of Terms
@@ -178,10 +178,27 @@ Statistics is the science of analyzing numerical data to evaluate properties of 
 - **Range (R)**: The difference between the highest and lowest values in a dataset.
 - **Mean Deviation (MD)**: Average distance of observations from the mean.
 
-### Calculation of Variability
 - **Variance (σ²)**: Measures the average of the squared differences from the mean.
-- **Standard Deviation (σ)**: The square root of variance, indicating how much data varies from the mean.
+	- σ² = population mean; s² = sample variance
+- **Standard Deviation (σ / s)**: The square root of variance, indicating how much data varies from the mean.
 - **Coefficient of Variation (cv)**: Expresses standard deviation as a percentage of the mean, useful for comparing variability across different datasets.
+
+#### Range
+- R = Highest - Lowest
+
+#### Mean Deviation
+![[Pasted image 20241213061040.png]]
+
+#### Variance
+- ![[Pasted image 20241213061133.png]]
+
+#### Standard Deviation
+![[Pasted image 20241213061208.png]]
+
+#### CV
+![[Pasted image 20241213061234.png]]
+
+---
 
 ## Examining Categorical Data Using Contingency Tables
 
@@ -191,6 +208,7 @@ Statistics is the science of analyzing numerical data to evaluate properties of 
 
 ### Marginal Distribution
 - The totals of each category in the contingency table, providing insight into the distribution of each variable.
+---
 
 ## Sampling Techniques
 
@@ -207,9 +225,6 @@ Statistics is the science of analyzing numerical data to evaluate properties of 
 - **Non-Probability Sampling**: Not all individuals have a chance of selection, leading to potential bias.
   - Types include **judgment sampling**, **quota sampling**, and **snowball sampling**.
 
+- ![[Pasted image 20241213061824.png]]
 ### Advantages of Probability Sampling
 - Provides precise estimates and indicates the level of confidence in results, enhancing the reliability of statistical inferences.
-
-## Conclusion
-
-In summary, this unit on **Descriptive Statistics** equips students with essential skills to analyze and interpret data meaningfully. Understanding measures of central tendency and variability allows for a deeper comprehension of data distributions, while contingency tables facilitate the examination of relationships between categorical variables. Furthermore, knowledge of sampling techniques is crucial for conducting research and drawing valid conclusions. The implications of mastering these concepts extend beyond academia, influencing decision-making processes in various professional fields.

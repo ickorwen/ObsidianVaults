@@ -1,81 +1,32 @@
 ## Mathematical Problem Solving
 
-- **Overview:** Mathematical problem solving is the process of defining, analyzing, and resolving mathematical inquiries to achieve specific goals. It involves applying mathematical principles and reasoning to real-life situations, enabling effective decision-making and logical thinking.
-    
+- **Overview:** Involves defining a problem, applying mathematical principles, and using logical reasoning to achieve solutions in real-life scenarios.
 - **Problem Definition:**
-    
-    - Understanding the goal of the problem.
-    - Identifying what is being asked and the conditions involved.
-    - Determining if there is enough information to solve the problem.
-- **Mathematical Processes:**
-    
-    - Involves deductive reasoning to establish conjectures.
-    - Use of heuristics for discovery and invention (e.g., methods by Euclid, Descartes, Polya).
-    - Application of strategies like Polya's four steps:
+    - Understand the goal and identify known/unknown variables.
+    - Ensure enough information is available to solve the problem.
+- **Processes:**
+    - Use deductive/inductive reasoning and heuristics.
+    - Apply Polya's steps:
         1. Understand the problem.
-        2. Devise a plan.
-        3. Carry out the plan.
-        4. Review/extend the solution.
-- **Application of Mathematics:**
-    
-    - Utilizing mathematics in everyday life decisions.
-    - Analyzing possible outcomes and consequences of choices.
-    - Recognizing patterns and sequences in data to predict results.
+        2. Plan.
+        3. Execute the plan.
+        4. Review the solution.
+- **Application:**
+    - Recognize patterns, predict outcomes, and make decisions.
 - **Decision Making:**
-    
-    - Importance of logical reasoning in making informed decisions.
-    - Evaluating alternatives based on potential positive or negative outcomes.
-    - Applying mathematical skills to solve real-world problems effectively.
-
-## Mathematical Problem Solving
-
-- **Overview:** Mathematical problem solving is the process of defining a problem, applying mathematical principles, and making decisions to reach a solution. It involves logical reasoning and the application of mathematics to real-life situations, enabling individuals to achieve specific goals or objectives.
-    
-- **Problem Definition:**
-    
-    - Understanding the problem's goal.
-    - Identifying what is being asked and the conditions involved.
-    - Determining known and unknown variables.
-    - Assessing if there is enough information to solve the problem.
-- **Mathematical Processes:**
-    
-    - Application of deductive and inductive reasoning.
-    - Use of heuristics for discovery and invention (e.g., methods by Euclid, Descartes, Polya).
-    - Following structured strategies like Polya’s four steps:
-        1. Understand the problem.
-        2. Devise a plan.
-        3. Carry out the plan.
-        4. Review/extend the solution.
-- **Application of Mathematics:**
-    
-    - Utilizing mathematical concepts in everyday life.
-    - Recognizing patterns and sequences in numbers.
-    - Applying functions and rules to predict outcomes.
-    - Using number patterns to facilitate problem-solving.
-- **Decision Making:**
-    
-    - Analyzing situations logically to make informed choices.
-    - Evaluating possible outcomes and their consequences.
-    - Implementing solutions based on reasoned analysis.
-    - Importance of reasoning in daily decision-making processes.
+    - Analyze options logically, evaluate outcomes, and solve real-world problems.
 
 ## Sequences and Patterns
 
-- **Overview:** Sequences and patterns are fundamental concepts in mathematics that involve ordered lists of numbers, where each number is termed a "term." Understanding these concepts allows for predictions about future terms based on established rules or formulas, facilitating problem-solving across various mathematical contexts.
+- **Overview:** Ordered lists of numbers where terms follow specific rules, enabling predictions and solutions.
 - **Nth-Term Formulas:**
-    - A formula used to generate all terms of a sequence.
-    - Example: For the sequence defined by ( a_n = n^2 + n ), substituting values of ( n ) generates the sequence.
+    - Formula to generate sequence terms (e.g., an=n2+na_n = n^2 + n).
 - **Difference Tables:**
-    - A method to find the next term in a sequence by calculating differences between successive terms.
-    - First differences may lead to second differences, which can help identify patterns.
-    - Example: For the sequence 5, 14, 27, 44, 65, constructing a difference table reveals a common difference, allowing prediction of subsequent terms.
+    - Use differences between terms to identify patterns and predict next terms.
 - **Number Patterns:**
-    - Sequences that repeat based on specific rules.
-    - Can be applied in real-life situations and problem-solving scenarios.
-    - Example: The sequence 2, 6, 12, 20, 30 follows the rule ( n^2 + n ).
+    - Repeating sequences based on rules (e.g., 2,6,12,202, 6, 12, 20 follows n2+nn^2 + n).
 - **Functions:**
-    - Mathematical relationships that express how one quantity depends on another.
-    - Number patterns often lead to the concept of functions, linking sequences to functional representations.
+    - Express relationships between quantities, linking patterns to functional equations.
 
 ## Problem Solving and Reasoning
 
