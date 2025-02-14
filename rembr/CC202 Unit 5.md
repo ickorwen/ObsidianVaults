@@ -9,10 +9,10 @@
 	-  To document a process  
 	-  When planning a project  
 	
-	- Rectangle Shape - Represents a process
-	- Oval or Pill Shape - Represents the start or end
-	- Diamond Shape - Represents a decision
-	- Parallelogram - Represents input/output
+		- Rectangle Shape - Represents a process
+		- Oval or Pill Shape - Represents the start or end
+		- Diamond Shape - Represents a decision
+		- Parallelogram - Represents input/output
 
 ### While Looping
 
