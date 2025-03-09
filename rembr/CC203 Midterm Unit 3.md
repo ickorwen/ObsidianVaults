@@ -216,5 +216,3 @@ public:
 - **Encapsulation, inheritance, and polymorphism** are the **three key principles** of **OOP**.
 
 ---
-
-These detailed notes should help you for your **quiz!** Let me know if you need further clarification.
