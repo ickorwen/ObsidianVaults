@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "NSCI Midterms"
             }
+          },
+          {
+            "id": "25c67270cf1b8d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENG Midterms Articles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ENG Midterms Articles"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -452,10 +466,11 @@
       "cloze:Toggle all clozes": false
     }
   },
-  "active": "6133dfbd5427217a",
+  "active": "25c67270cf1b8d34",
   "lastOpenFiles": [
-    "CIT chap 3.md",
     "NSCI Midterms.md",
+    "ENG Midterms Articles.md",
+    "CIT chap 3.md",
     "CC203 Midterm Unit 3.md",
     "CC 203 - Midterm unit 1.md",
     "203 MIDTERM UNIT 2.md",
