@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIT chap 3.md",
+                "file": "NSCI Midterms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CIT chap 3"
+              "title": "NSCI Midterms"
             }
           }
         ],
@@ -417,12 +417,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "201ddfc7e7f6e40d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "horizontal",
@@ -444,8 +454,9 @@
   },
   "active": "6133dfbd5427217a",
   "lastOpenFiles": [
-    "CC203 Midterm Unit 3.md",
     "CIT chap 3.md",
+    "NSCI Midterms.md",
+    "CC203 Midterm Unit 3.md",
     "CC 203 - Midterm unit 1.md",
     "203 MIDTERM UNIT 2.md",
     "CC201 - Midterms.md",
