@@ -85,3 +85,18 @@ Sherry Turkle’s TED Talk "Connected, but alone?" discusses the paradox of digi
 She describes how constant connection can hinder self-reflection and meaningful relationships. People prefer controlled, edited communication—texting over talking—leading to a "Goldilocks effect" where interactions are not too close, not too far, but just right. This avoidance of real conversation limits our ability to understand ourselves and others. Turkle warns that even interactions with AI, like Siri or sociable robots, risk replacing human empathy.
 
 Ultimately, Turkle urges reclaiming the art of conversation to foster genuine connections and self-awareness.
+
+---
+
+The excerpt you shared is from a TED Talk by Robert Waldinger titled "What Makes a Good Life? Lessons from the Longest Study on Happiness." Waldinger, a psychiatrist and director of the Harvard Study of Adult Development, discusses insights from a 75-year study on happiness and health. 
+
+The study tracked the lives of 724 men, including Harvard students and boys from disadvantaged backgrounds, collecting data on their careers, relationships, and health. The key finding was clear: good relationships keep us happier and healthier. Wealth, fame, and hard work were not the factors that led to a fulfilling life—strong social connections were.
+
+Waldinger emphasizes three lessons:
+1. Social connections are crucial for happiness and longevity, while loneliness harms both mental and physical health.
+2. The quality of close relationships matters more than quantity; supportive, low-conflict relationships are protective.
+3. Good relationships not only benefit physical health but also protect the brain, maintaining sharper memories.
+
+He challenges the audience to prioritize relationships, replace screen time with people time, revive stale relationships, and let go of grudges. The talk’s message aligns with Mark Twain’s reflection on life’s brevity and the importance of love over conflict.
+
+What are your thoughts on this study? Do you think the findings resonate with your experiences or the culture around you?
